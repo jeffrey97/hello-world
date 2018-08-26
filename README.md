@@ -1,2 +1,6 @@
 # hello-world
 My first tutorial repository...
+
+This is a sample tutorial repository created as per the Learning Guide of GitHub...
+
+I'm Jeffrey, a Java software developer and now a VR Developer as well... :) 
